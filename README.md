@@ -38,11 +38,3 @@ Sou um profissional em transição de carreira, com formação em Psicologia e a
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/geovannevalente/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:geovanne.lopesdev@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Meu%20Portfólio-6f42c1?style=for-the-badge)](https://github.com/Geovanne-lopes)
-
----
-
-![GitHub Game of Life](https://github.com/Geovanne-lopes/Geovanne-lopes/blob/output/github-contribution-grid-snake.svg)
-
-> "Programar é resolver problemas com criatividade. E criatividade exige repertório."
-
----
